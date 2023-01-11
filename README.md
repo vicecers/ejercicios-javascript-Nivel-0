@@ -1,3 +1,4 @@
 # ejercicios-javascript-Nivel-0
 Created with CodeSandbox
-https://codesandbox.io/s/quirky-mayer-kirrlo?file=/src/index.js
+
+[Ejercicio N°1](https://codesandbox.io/s/ejercicio1-kirrlo)
